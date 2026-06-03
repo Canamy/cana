@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as s}from"./chunks/framework.EYT3XhWU.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"shenlun/solutions.md","filePath":"shenlun/solutions.md"}'),n={name:"shenlun/solutions.md"};function o(a,r,c,i,l,p){return t(),s("div")}const d=e(n,[["render",o]]);export{_ as __pageData,d as default};
