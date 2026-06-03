@@ -1,1 +1,0 @@
-import{_ as e,o as t,c as a}from"./chunks/framework.EYT3XhWU.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"行测/言语理解/中心理解/因果关系.md","filePath":"行测/言语理解/中心理解/因果关系.md"}'),r={name:"行测/言语理解/中心理解/因果关系.md"};function o(s,c,n,_,p,d){return t(),a("div")}const f=e(r,[["render",o]]);export{m as __pageData,f as default};
