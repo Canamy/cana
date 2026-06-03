@@ -1,6 +1,7 @@
 import { defineConfig } from 'vitepress'
 
 export default defineConfig({
+  base: '/cana/', // 🔥 必须加入这一行，注意前后都有斜杠
   title: "Cana",
   description: "公务员备考知识点总结",
   themeConfig: {
@@ -101,8 +102,5 @@ export default defineConfig({
     }
   }
 
-  export default {
-  base: '/my-docs/',   // 你的仓库名，前后都带斜杠
-  // 其他配置...
-}
+
 })
